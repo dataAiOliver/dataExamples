@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,Stock
+1,Yoga Mat,Sports,220.42,230
+2,Toaster,Home,386.01,110
+3,Smartwatch,Electronics,247.0,54
+4,Doll,Toys,321.46,836
+5,Laptop,Electronics,290.7,216
+6,Jacket,Clothing,232.96,850
+7,Action Figure,Toys,388.42,967
+8,Tablet,Electronics,248.99,861
+9,T-Shirt,Clothing,30.88,481
+10,Board Game,Toys,371.77,521
+11,Yoga Mat,Sports,197.22,927
+12,Remote Control Car,Toys,178.6,511
+13,Yoga Mat,Sports,407.41,191
+14,Action Figure,Toys,387.79,420
+15,Tennis Racket,Sports,490.96,818
+16,Soccer Ball,Sports,160.99,23
+17,Tablet,Electronics,164.84,259
+18,Dumbbells,Sports,255.38,994
+19,Soccer Ball,Sports,429.37,808
+20,Vacuum Cleaner,Home,472.27,848
