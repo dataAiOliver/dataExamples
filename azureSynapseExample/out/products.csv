@@ -1,21 +1,21 @@
 ProductID,ProductName,Category,Price,Stock
-1,Dumbbells,Sports,224.46,13
-2,Dumbbells,Sports,12.89,28
-3,Remote Control Car,Toys,400.55,277
-4,Basketball,Sports,499.52,313
-5,Doll,Toys,310.73,34
-6,Headphones,Electronics,216.82,512
-7,Tennis Racket,Sports,403.65,628
-8,Board Game,Toys,448.5,877
-9,Headphones,Electronics,483.34,612
-10,Dumbbells,Sports,483.15,969
-11,Dumbbells,Sports,344.81,903
-12,Action Figure,Toys,13.31,56
-13,Headphones,Electronics,443.45,411
-14,Action Figure,Toys,235.21,898
-15,Laptop,Electronics,285.04,552
-16,Remote Control Car,Toys,111.71,241
-17,Yoga Mat,Sports,457.39,127
-18,Blender,Home,437.39,953
-19,Blender,Home,332.81,439
-20,Yoga Mat,Sports,118.28,253
+1,Board Game,Toys,97.79,678
+2,Sweater,Clothing,406.17,804
+3,Doll,Toys,193.42,836
+4,Coffee Maker,Home,485.9,133
+5,Vacuum Cleaner,Home,246.09,394
+6,Tennis Racket,Sports,35.78,412
+7,Basketball,Sports,162.77,446
+8,Tablet,Electronics,490.04,258
+9,Jacket,Clothing,334.94,272
+10,Smartwatch,Electronics,185.53,277
+11,Board Game,Toys,493.43,176
+12,Board Game,Toys,391.88,354
+13,Laptop,Electronics,406.07,987
+14,Remote Control Car,Toys,111.1,195
+15,Tennis Racket,Sports,54.61,829
+16,T-Shirt,Clothing,211.31,59
+17,Jeans,Clothing,250.9,739
+18,Smartphone,Electronics,268.53,271
+19,Laptop,Electronics,378.82,59
+20,Laptop,Electronics,158.81,540
