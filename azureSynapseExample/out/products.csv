@@ -1,21 +1,21 @@
 ProductID,ProductName,Category,Price,Stock
-1,Board Game,Toys,97.79,678
-2,Sweater,Clothing,406.17,804
-3,Doll,Toys,193.42,836
-4,Coffee Maker,Home,485.9,133
-5,Vacuum Cleaner,Home,246.09,394
-6,Tennis Racket,Sports,35.78,412
-7,Basketball,Sports,162.77,446
-8,Tablet,Electronics,490.04,258
-9,Jacket,Clothing,334.94,272
-10,Smartwatch,Electronics,185.53,277
-11,Board Game,Toys,493.43,176
-12,Board Game,Toys,391.88,354
-13,Laptop,Electronics,406.07,987
-14,Remote Control Car,Toys,111.1,195
-15,Tennis Racket,Sports,54.61,829
-16,T-Shirt,Clothing,211.31,59
-17,Jeans,Clothing,250.9,739
-18,Smartphone,Electronics,268.53,271
-19,Laptop,Electronics,378.82,59
-20,Laptop,Electronics,158.81,540
+1,Dumbbells,Sports,269.19,780
+2,Smartwatch,Electronics,70.23,263
+3,Smartwatch,Electronics,329.3,110
+4,Vacuum Cleaner,Home,231.7,255
+5,Smartwatch,Electronics,337.8,321
+6,Headphones,Electronics,61.61,167
+7,Soccer Ball,Sports,270.48,689
+8,Puzzle,Toys,150.87,288
+9,Yoga Mat,Sports,81.36,552
+10,Action Figure,Toys,204.13,782
+11,Tablet,Electronics,485.08,158
+12,Tennis Racket,Sports,309.64,691
+13,Toaster,Home,27.54,646
+14,Dumbbells,Sports,420.27,197
+15,Action Figure,Toys,496.32,772
+16,Jacket,Clothing,430.51,208
+17,Basketball,Sports,138.26,451
+18,Jeans,Clothing,436.71,332
+19,Sweater,Clothing,313.53,754
+20,Microwave,Home,49.67,665
